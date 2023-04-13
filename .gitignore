@@ -1,0 +1,2 @@
+#Ignore all contents of the Python virtual environment (i.e., the interpreter and installed libraries)
+PythonVirtualEnvironment/
